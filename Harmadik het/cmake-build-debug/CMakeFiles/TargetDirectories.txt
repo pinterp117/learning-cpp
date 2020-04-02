@@ -1,0 +1,3 @@
+D:/Programozas/Orai munka/learning-cpp/Harmadik het/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programozas/Orai munka/learning-cpp/Harmadik het/cmake-build-debug/CMakeFiles/Harmadik_het.dir
+D:/Programozas/Orai munka/learning-cpp/Harmadik het/cmake-build-debug/CMakeFiles/rebuild_cache.dir
